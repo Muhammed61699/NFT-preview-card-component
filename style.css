@@ -175,5 +175,5 @@ h2{
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
-.attribution{ font-size: 20px; text-align: center; }
+.attribution{ font-size: 20px; text-align: center;margin-top: 55px; }
 .attribution a { color: hsl(228, 45%, 44%); }
